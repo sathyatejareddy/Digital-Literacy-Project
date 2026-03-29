@@ -92,8 +92,8 @@ and helpline 1930.
 | Resource | Link |
 |----------|------|
 | GitHub Profile | [github.com/sathaytejareddy](https://github.com/sathaytejareddy) |
-| LinkedIn | Add your LinkedIn URL here |
-| Google Form Quiz |  |
+| LinkedIn | https://www.linkedin.com/in/sathya-teja-reddy-73698337a/ |
+| Google Form Quiz | https://forms.gle/HdaQAKxzuppMYR8Z8 |
 | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24x7) |
 
