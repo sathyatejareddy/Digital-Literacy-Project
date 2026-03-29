@@ -63,7 +63,7 @@ an AI student. LinkedIn Education section is updated with my current
 programme and institution.
 
 - GitHub: [github.com/sathaytejareddy](https://github.com/sathaytejareddy)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/sathya-teja-reddy-73698337a/
 
 ### Task 3 – Coding and Collaboration Platforms
 Created an account on HackerRank and completed a beginner-level coding
