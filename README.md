@@ -1,10 +1,10 @@
 # Digital Literacy Project
 
 ## Student Details
-##Name: NAGILLA SATHYA TEJA REDDY 
-##Reg No: 25MIM10058 
-##Branch: Integrated Mtech in AI 
-##Year: 1st Year 
+Name: NAGILLA SATHYA TEJA REDDY ,
+Reg No: 25MIM10058 ,
+Branch: Integrated Mtech in AI ,
+Year: 1st Year ,
 
 ## Overview
 This repository contains my Digital Literacy Project for CSE0001 at VIT Bhopal. The project is structured as a portfolio demonstrating essential digital skills required for students, including awareness, professional online presence, platform usage, communication, and cybersecurity.
